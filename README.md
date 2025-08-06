@@ -1,6 +1,6 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/07/screenshot_20250731-172746_12073168234250614551.png" alt="Firebase Front-End Components Preview" width="600"/>
+  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/08/createacleanandmodernflat-stylethumbnailforaweb-basedtoolcalledhtmlpagegeneratorforblogger322282329178022614.jpg" alt="Firebase Front-End Components Preview" width="600"/>
 </p>
 " alt="Firebase Front-End Components Preview" width="600"/>
 </p>
