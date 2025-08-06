@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://debeatzgh.wordpress.com/wp-content/uploads/2025/07/screenshot_20250731-172746_12073168234250614551.png" alt="Firebase Front-End Components Preview" width="600"/>
+</p>
+" alt="Firebase Front-End Components Preview" width="600"/>
+</p>
+
 # 💡 Pop-up Modal HTML Page Generator for Blogger
 
 This is a lightweight, user-friendly **HTML web page generator** for Blogger users. It features a floating button that opens a modal form where users can input:
